@@ -15,8 +15,8 @@
 - Mathematics & Statistics
   
 📫 How to reach me:  
-- LinkedIn: [https://www.linkedin.com/in/punleuTY]()  
-- Personal Website [https://v0-new-project-ikbljdh2cuh.vercel.app/]()
+- LinkedIn: [https://www.linkedin.com/in/punleuTY](https://www.linkedin.com/in/punleuTY)  
+- Personal Website [https://v0-new-project-ikbljdh2cuh.vercel.app/](https://v0-new-project-ikbljdh2cuh.vercel.app/)
 
 ---
 
