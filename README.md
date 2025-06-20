@@ -11,7 +11,7 @@
 🌱 I’m learning:  
 - Pandas, NumPy, Matplotlib  
 - Javascript, React.js, Express.js, Node.js, PostgreSQL  
-- Research Methodolgy & Machine Learning 
+- Research Methodology & Machine Learning 
 - Mathematics & Statistics
   
 📫 How to reach me:  
