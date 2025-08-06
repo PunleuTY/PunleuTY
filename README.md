@@ -30,7 +30,6 @@
 ## 🖥️ IDE
 
 ![Colab](https://img.shields.io/badge/COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
