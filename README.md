@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Punleu</h1>
-<h3 align="center">Sophomore | Data Science Explorer | AI Dream Chaser</h3>
+<h3 align="center">Junior Data Science Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=450&lines=Computer+Science+Student;Data+Science+Enthusiast;Lifelong+Learner" />
@@ -22,9 +22,11 @@
 
 ### 📈 GitHub Stats
 
-![Punleu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PunleuTY&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PunleuTY&layout=compact&theme=radical)
+![Punleu's GitHub stats](https://github-readme-stats.vercel.app/api?username=punleu&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punleu&layout=compact&theme=tokyonight)
+
 
 ---
 ## 🖥️ IDE
