@@ -22,17 +22,26 @@
 
 ### 📈 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=PunleuTY&show_icons=true&count_private=true&theme=tokyonight"
+    alt="PunleuTY GitHub stats"
+  />
+</p>
 
-![Punleu's GitHub stats](https://github-readme-stats.vercel.app/api?username=punleu&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punleu&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PunleuTY&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
+</p>
 
 ---
 ## 🖥️ IDE
 
 ![Colab](https://img.shields.io/badge/COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
@@ -68,7 +77,7 @@
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
